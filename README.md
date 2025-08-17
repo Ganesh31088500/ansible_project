@@ -2,7 +2,10 @@
 Task 1:
 
 #commands
+
 pip install boto3
+
+
 ansible-galaxy collection install amazon.aws
 
 
